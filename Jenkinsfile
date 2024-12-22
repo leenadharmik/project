@@ -1,4 +1,4 @@
-//updateforwebhook
+
 pipeline {
 agent {
 label {
